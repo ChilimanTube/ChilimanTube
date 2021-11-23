@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @ChilimanTube
+- 👀 I’m interested in programming, gaming and robotics.
+- 🌱 I’m currently learning Java at school and C on my own.

@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @ChilimanTube
 - 👀 I’m interested in programming, gaming and robotics.
-- 🌱 I’m currently learning Java, HTML, CSS and a bit of JavaScript.
+- 🌱 I’m currently learning Java, C#, HTML, CSS, JavaScript and Python.

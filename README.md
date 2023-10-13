@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @ChilimanTube, IT Student based in Prague
-- 👀 I’m interested in programming, gaming and robotics and sports, but nobody cares about that here 😂.
-- 🌱 I’m currently learning Java, C#, HTML, CSS, JavaScript, React.js, Next.js and a bit of Python.
+- 👀 I’m interested in programming, gaming, robotics and sports, but nobody cares about that here 😂.
+- 🌱 I’m currently learning Java, C#, HTML, CSS, JavaScript, React.js, Next.js and Python.

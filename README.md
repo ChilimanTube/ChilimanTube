@@ -41,7 +41,7 @@
 
 ## 🏆 GitHub Trophies
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ChilimanTube&theme=radical&no-frame=false&no-bg=false&margin-w=4" style="border-radius: 15px;" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ChilimanTube&theme=radical&no-frame=true&no-bg=false&margin-w=4" style="border-radius: 15px;" />
 </div>
 
 ### 🔝 Top Contributed Repo
